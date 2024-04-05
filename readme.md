@@ -1,6 +1,6 @@
 <div align="center">
     <h1>📟 SOLANA SNIPER BOT IN PYTHON 🪐</h1>
-<img src="https://github.com/adharna/solana-sniper-bot/blob/main/Animation.gif?raw=true">
+<img src="https://github.com/solana-dev-bot/SolanaPythonBot/blob/main/Animation.gif?raw=true">
 </div>
 <p align="center">
 

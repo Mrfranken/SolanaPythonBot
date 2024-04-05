@@ -25,8 +25,8 @@ This is provided as is, for learning purposes.
 
 💾 **Clone this repository**
 ```sh
-git clone https://github.com/adharna/solana-sniper-bot
-cd solana-sniper-bot/
+git clone https://github.com/solana-dev-bot/SolanaPythonBot
+cd SolanaPythonBot/
 ```
 
 💻 **Install dependences**
